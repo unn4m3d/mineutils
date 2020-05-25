@@ -1,0 +1,13 @@
+name: mineutils
+version: 0.1.0
+
+authors:
+  - unn4m3d <smelnikov871@gmail.com>
+
+crystal: 0.34.0
+
+dependencies:
+  version:
+    github: unn4m3d/version    
+
+license: MIT
